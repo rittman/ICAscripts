@@ -2,11 +2,10 @@
 Function to review covariations with clinical scores using FSL's
 clusters function
 
-At the moment, functions are commented to copy original
-files from the data drive, and to 
-transfer all the files back to a new data directory.
+At the moment, the function is commented out to copy original
+files from the data drive.
 
-The input is a dual regression directory
+The input is a dual regression directory, eg python review PSPletfluencycorr_dr
 
 """
 
